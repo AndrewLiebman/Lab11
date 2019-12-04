@@ -1,5 +1,7 @@
 import java.util.Scanner; // Importing the Scanner
 
+// I am adding a comment in the Git Hub repository
+
 public class Hello
 {
     public static void main (String[] args)
